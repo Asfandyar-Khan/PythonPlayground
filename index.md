@@ -1,7 +1,7 @@
 # Welcome to Python Playground - Intro to Python Programming 👋
 
 This is the official website for our Python course. Here you’ll find:
-- 🧾 [Course Syllabus](syllabus.md)
+- 🧾 [Course Syllabus](Syllabus.md)
 - 🎓 [Lectures](PlaygroundLectures/)
 - 📚 [Homework Assignments](PlaygroundHomeworks/)
 
